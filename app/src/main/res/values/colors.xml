@@ -1,0 +1,47 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="green">#9ACD65</color>
+    <color name="red">#ff0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="blue">#3333FF</color>
+    <color name="text_color">#fff</color>
+    <color name="grad_dark">#000</color>
+    <color name="grad_light">#252525</color>
+    <color name="btn_green_bg">#8EC549</color>
+    <color name="header_bg">#EBEBEB</color>
+    <color name="header_selected">#CCCCCC</color>
+    <color name="footer_bg">#252525</color>
+    <color name="footer_selected">#000</color>
+    <color name="footer_txt_normal">#40ffffff</color>
+    <color name="footer_txt_selected">#ffffff</color>
+    <color name="notification_bg">#F59331</color>
+    <color name="traffic_bg">#0077A2</color>
+    <color name="enforcment_bg">#E83136</color>
+    <color name="alcohal_bg">#605CA8</color>
+    <color name="taxes_bg">#555555</color>
+    <color name="guns_bg">#ACA000</color>
+    <color name="marijuana_bg">#3AB54A</color>
+    <color name="law_data_bg">#363636</color>
+    <color name="white_edittext_text_color">#959595</color>
+    <color name="option_header_bg">#cbcbcb</color>
+    <color name="black_button">#363636</color>
+
+    <color name="translucent">#cc000000</color>
+    <color name="tutorial_blue">#ffa7effb</color>
+    <color name="dummy_color">#333e69</color>
+    <color name="button_color">#17b289</color>
+    <color name="first_color">#ffde5a</color>
+    <color name="second_color">#fb635d</color>
+    <color name="third_color">#21d4ff</color>
+    <color name="fourth_color">#7ce3e4</color>
+    <color name="fifth_color">#fdbf53</color>
+    <color name="button4_color">#4b4e53</color>
+    <color name="background4_color">#131418</color>
+    <color name="facebook_color">#39589b</color>
+    <color name="twitter_color">#24a9e3</color>
+
+
+</resources>
